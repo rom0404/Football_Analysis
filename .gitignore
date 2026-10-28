@@ -1,0 +1,24 @@
+# Generated analysis outputs
+*_radar.png
+*_percentiles.png
+*_scout_card.md
+
+# MLflow tracking
+mlflow.db
+mlruns/
+
+# Temp files
+non_ascii.txt
+
+# Python
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
